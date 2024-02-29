@@ -1,0 +1,256 @@
+/***** MENU FRENCH*****/
+
+#menu-menu-principal .status-login,
+#mobile-fullscreen .status-login {
+    display: none;
+}
+
+#menu-menu-principal .status-logout .sub-menu {
+    left: -111%;
+}
+
+#menu-menu-principal .user-btn,
+.btn {
+    cursor: pointer;
+}
+
+#menu-menu-principal .user-btn {
+    min-width: 50px;
+    text-align: center;
+}
+
+#menu-menu-principal .user-btn i {
+    vertical-align: middle;
+    transition: all 1s;
+}
+
+#menu-menu-principal .user-btn span {
+    display: list-item;
+}
+
+#menu-menu-principal ul,
+#menu-menu-principal ul a {
+    border-radius: 20px;
+}
+
+#menu-menu-principal .user-btn i {
+    transition: color 2s;
+}
+
+#menu-menu-principal .user-btn ul li {
+    border-bottom: none;
+}
+
+body .gform_wrapper .gform_body input {
+    border-radius: 50px;
+    /* C'etait 10px et j'ai mis 50 px*/
+}
+
+body .gform_wrapper .gform_body input[type="file"] {
+    border-radius: 0px;
+}
+
+/***** MENU ENGLISH*****/
+
+#menu-main-menu .status-login,
+#mobile-fullscreen .status-login {
+    display: none;
+}
+
+#menu-main-menu .status-logout .sub-menu {
+    left: -100%;
+}
+
+#menu-main-menu .user-btn,
+.btn {
+    cursor: pointer;
+}
+
+#menu-main-menu .user-btn {
+    min-width: 50px;
+    text-align: center;
+}
+
+#menu-main-menu .user-btn i {
+    vertical-align: middle;
+    transition: all 1s;
+}
+
+#menu-main-menu .user-btn span {
+    display: list-item;
+}
+
+#menu-main-menu ul,
+#menu-main-menu ul a {
+    border-radius: 20px;
+}
+
+#menu-main-menu .user-btn i {
+    transition: color 2s;
+}
+
+#menu-main-menu .user-btn ul li {
+    border-bottom: none;
+}
+
+body .gform_wrapper .gform_body input {
+    border-radius: 10px;
+}
+
+body .gform_wrapper .gform_body input[type="file"] {
+    border-radius: 0px;
+}
+
+/***** MENU NEERLANDAIS*****/
+
+#menu-main-menu-nl .status-login,
+#mobile-fullscreen .status-login {
+    display: none;
+}
+
+#menu-main-menu-nl .status-logout .sub-menu {
+    left: -100%;
+}
+
+#menu-main-menu-nl .user-btn,
+.btn {
+    cursor: pointer;
+}
+
+#menu-main-menu-nl .user-btn {
+    min-width: 50px;
+    text-align: center;
+}
+
+#menu-main-menu-nl .user-btn i {
+    vertical-align: middle;
+    transition: all 1s;
+}
+
+#menu-main-menu-nl .user-btn span {
+    display: list-item;
+}
+
+#menu-main-menu-nl ul,
+#menu-main-menu-nl ul a {
+    border-radius: 20px;
+}
+
+#menu-main-menu-nl .user-btn i {
+    transition: color 2s;
+}
+
+#menu-main-menu-nl .user-btn ul li {
+    border-bottom: none;
+}
+
+body .gform_wrapper .gform_body input {
+    border-radius: 10px;
+}
+
+body .gform_wrapper .gform_body input[type="file"] {
+    border-radius: 0px;
+}
+
+/***** MENU ESPAGNOL*****/
+
+#menu-main-menu-esp .status-login,
+#mobile-fullscreen .status-login {
+    display: none;
+}
+
+#menu-main-menu-esp .status-logout .sub-menu {
+    left: -100%;
+}
+
+#menu-main-menu-esp .user-btn,
+.btn {
+    cursor: pointer;
+}
+
+#menu-main-menu-esp .user-btn {
+    min-width: 50px;
+    text-align: center;
+}
+
+#menu-main-menu-esp .user-btn i {
+    vertical-align: middle;
+    transition: all 1s;
+}
+
+#menu-main-menu-esp .user-btn span {
+    display: list-item;
+}
+
+#menu-main-menu-esp ul,
+#menu-main-menu-esp ul a {
+    border-radius: 20px;
+}
+
+#menu-main-menu-esp .user-btn i {
+    transition: color 2s;
+}
+
+#menu-main-menu-esp .user-btn ul li {
+    border-bottom: none;
+}
+
+body .gform_wrapper .gform_body input {
+    border-radius: 10px;
+}
+
+body .gform_wrapper .gform_body input[type="file"] {
+    border-radius: 0px;
+}
+
+/***** MENU ALLEMAND*****/
+
+#menu-main-menu-de .status-login,
+#mobile-fullscreen .status-login {
+    display: none;
+}
+
+#menu-main-menu-de .status-logout .sub-menu {
+    left: -100%;
+}
+
+#menu-main-menu-de .user-btn,
+.btn {
+    cursor: pointer;
+}
+
+#menu-main-menu-de .user-btn {
+    min-width: 50px;
+    text-align: center;
+}
+
+#menu-main-menu-de .user-btn i {
+    vertical-align: middle;
+    transition: all 1s;
+}
+
+#menu-main-menu-de .user-btn span {
+    display: list-item;
+}
+
+#menu-main-menu-de ul,
+#menu-main-menu-de ul a {
+    border-radius: 20px;
+}
+
+#menu-main-menu-de .user-btn i {
+    transition: color 2s;
+}
+
+#menu-main-menu-de .user-btn ul li {
+    border-bottom: none;
+}
+
+body .gform_wrapper .gform_body input {
+    border-radius: 50px;
+    /*c'etait 10px et j'ai mis 50px*/
+}
+
+body .gform_wrapper .gform_body input[type="file"] {
+    border-radius: 0px;
+}

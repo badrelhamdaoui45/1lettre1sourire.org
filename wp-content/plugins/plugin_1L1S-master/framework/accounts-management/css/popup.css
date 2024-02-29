@@ -1,0 +1,43 @@
+/***** POPUP *****/
+
+.popup-login {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.popup-login .img-login {
+    width: 50%;
+}
+
+.popup-login #label_9_5_1 {
+    color: red;
+}
+
+.popup-login #label_9_5_1,
+.popup-login #label_9_3_1 {
+    font-weight: 500;
+}
+
+.popup-login h2 {
+    font-weight: 800;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.popup-login .gform_button {
+    border-radius: 5px;
+}
+
+.popup-login .content {
+    width: 50%;
+}
+
+@media only screen and (max-width: 768px) {
+    .popup-login {
+        flex-direction: column;
+    }
+    .popup-login h2 {
+        text-align: center;
+    }
+}

@@ -1,0 +1,23 @@
+/*
+    Created on : May 23, 2018, 3:42:43 PM
+    Author     : Objects
+    Name       : Gravity Form Result Table
+*/
+
+.form-results {
+    border: none;
+    width: 100%;
+}
+
+.form-results>tbody>tr>td,
+.form-results>tbody>tr>th {
+    border: none;
+}
+
+.form-results>tbody>tr>th {
+    background-color: #eaf2fa;
+}
+
+.form-results table {
+    margin: 0px;
+}
